@@ -3,3 +3,11 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10	L03 Make GitHub Repository
 ZCZC W00 30	L04 Create GitHub Pages
+ZCZC W01 30     L03 Setting SSH github
+ZCZC W01 200    L11 Assignment week 1
+ZCZC W01 60     L61 Install Virtual Box
+ZCZC W01 60     L62 Install Virtual Debian Guest
+ZCZC W01 200    L02 CLASSROOM meetings OS
+ZCZC W01 10     L41 update mylog.txt
+ZCZC W01 30     L06 Find references for problem
+ZCZC W01 30     L08 OS Chat related     
