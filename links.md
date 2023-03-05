@@ -35,3 +35,14 @@ This video is also about cyber security, but the main focus of this video is abo
 
 7. [Why Care About Internet Privacy?](https://www.youtube.com/watch?v=85mu9PLWCuI)<br>
 This interesting video is about digital privacy and why we should care about that.
+
+
+### **Week 03**
+1. [Directory Implementation in Operating System](https://www.geeksforgeeks.org/directory-implementation-in-operating-system/)<br>
+This website provides directory implementation in operating system
+
+2. [File System in Operating System (OS)](https://www.scaler.com/topics/file-systems-in-os/)<br>
+If you don't have time to read Silberschatz's book about file systems, you can read this one instead. Although this site is not as complete as Silberschatz's book, this site still contains important things you have to know about file systems, including properties of a file system, file structure, file types, space allocation, and many more.
+
+3. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+This video explains the basics of file systems in a nutshell. For me, this video is pretty informative for that kind of duration.
