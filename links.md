@@ -46,3 +46,16 @@ If you don't have time to read Silberschatz's book about file systems, you can r
 
 3. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
 This video explains the basics of file systems in a nutshell. For me, this video is pretty informative for that kind of duration.
+
+### **Week 04**
+1. [C pointers 👉](https://youtu.be/DplxIq0mc_Y)
+This video explains what are pointers in C and example also how to use them.
+
+2. [Pointers & Addresses in C](https://www.youtube.com/watch?v=sjQb7TGTO9U)<br>
+This video explains pointers and addresses in C programming language. 
+
+3. [C Pointer and Reference differences](https://www.youtube.com/watch?v=tHiNrSSv8GA)<br>
+This video is about the differences between pointers and references in C programming. 
+
+4. [Address Binding in Operating System](https://www.youtube.com/watch?v=twMsRr4mSYQ)<br>
+This YouTube video explains the concept of address binding that occurs in the operating system.

@@ -16,7 +16,7 @@ ZCZC W02 10     L41 update mylog.txt
 ZCZC W02 200    L02 CLASSROOM meetings OS
 ZCZC W02 200    L12 Assigment week 2
 ZCZC W02 60     L06 Find references for LINKS/
-ZCZC W02 5     L42 TXT/mypubkey.txt related.
+ZCZC W02 5      L42 TXT/mypubkey.txt related.
 ZCZC W02 30     L43 TXT/myrank.tex related, including peer review
 ZCZC W02 30     L44 TXT/myscript.sh related.
 ZCZC W03 120    L13 Assignment #03
@@ -27,4 +27,13 @@ ZCZC W03 30     L03 Github related
 ZCZC W03 5      L42 TXT/mypubkey.txt related.
 ZCZC W03 30     L43 TXT/myrank.tex related, including peer review
 ZCZC W03 30     L44 TXT/myscript.sh related.
-
+ZCZC W04 30     L03 Github related
+ZCZC W04 10     L41 upadate mylog.txt
+ZCZC W04 200    L02 CLASSROOM meetings OS
+ZCZC W04 90     L14 Assignment #04
+ZCZC W04 60     L06 Find references for LINKS/
+ZCZC W04 30     L08 OS Chat related
+ZCZC W04 5      L42 TXT/mypubkey.txt related. 
+ZCZC W04 20     L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 20     L44 TXT/myscript.sh related.
+ 
