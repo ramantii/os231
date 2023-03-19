@@ -59,3 +59,16 @@ This video is about the differences between pointers and references in C program
 
 4. [Address Binding in Operating System](https://www.youtube.com/watch?v=twMsRr4mSYQ)<br>
 This YouTube video explains the concept of address binding that occurs in the operating system.
+
+### **Week 05**
+1. [Cache Memory](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+Cache Memory is a special very high-speed memory. It is used to speed up and synchronizing with high-speed CPU. Let's learn about Cache Memory on this article!
+
+2. [Demand Paging](https://www.javatpoint.com/os-demand-paging)<br>
+OS decides which pages need to be kept in the main memory and which need to be kept in the secondary memory. 
+
+3. [Allocation of Frames](https://www.geeksforgeeks.org/operating-system-allocation-frames/)<br>
+An important aspect of operating systems, virtual memory is implemented using demand paging.
+
+4. [What is Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Virtual memory is an allocation scheme which makes secondary memory looks like main memory that can be addressed and used in program.
