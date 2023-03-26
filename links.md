@@ -72,3 +72,14 @@ An important aspect of operating systems, virtual memory is implemented using de
 
 4. [What is Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Virtual memory is an allocation scheme which makes secondary memory looks like main memory that can be addressed and used in program.
+
+
+### **Week 06**
+1. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)<br>
+There are some problems to consider that may arise in designing multithreaded programs.
+
+2. [Process Management (Process and Threads)](https://youtu.be/OrM7nZcxXZU)
+A video from Neso Academy about Process Management.
+
+3. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+This article explains the differences between process and thread in great detail.

@@ -45,3 +45,13 @@ ZCZC W05 30     L08 OS Chat related
 ZCZC W05 5      L42 TXT/mypubkey.txt related.
 ZCZC W05 20     L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 20     L44 TXT/myscript.sh related. 
+ZCZC W05 20     L44 TXT/myscript.sh related.
+ZCZC W05 30     L03 Github related
+ZCZC W05 10     L41 upadate mylog.txt
+ZCZC W05 200    L02 CLASSROOM meetings OS
+ZCZC W05 90     L16 Assignment #06
+ZCZC W05 60     L06 Find references for LINKS/
+ZCZC W05 30     L08 OS Chat related
+ZCZC W05 5      L42 TXT/mypubkey.txt related.
+ZCZC W05 20     L43 TXT/myrank.tex related, including pe>
+ZCZC W05 20     L44 TXT/myscript.sh related.
