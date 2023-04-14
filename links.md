@@ -83,3 +83,7 @@ A video from Neso Academy about Process Management.
 
 3. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
 This article explains the differences between process and thread in great detail.
+
+### **Week 07**
+1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+This video tells about Process Synchronization in detail way.
