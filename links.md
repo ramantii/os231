@@ -87,3 +87,9 @@ This article explains the differences between process and thread in great detail
 ### **Week 07**
 1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
 This video tells about Process Synchronization in detail way.
+
+
+### **Week 08**
+[Scheduling](https://binaryterms.com/scheduling-in-operating-system.html)<br>
+This is a article about how scheduling works in operating system. 
+

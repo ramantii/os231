@@ -63,3 +63,12 @@ ZCZC W07 60     L06 Find references for LINKS/
 ZCZC W07 30     L08 OS Chat related
 ZCZC W07 5      L42 TXT/mypubkey.txt related.
 ZCZC W07 20     L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 30     L03 Github related
+ZCZC W08 10     L41 upadate mylog.txt
+ZCZC W08 200    L02 CLASSROOM meetings OS
+ZCZC W08 400    L18 Assignment #08
+ZCZC W08 60     L06 Find references for LINKS/
+ZCZC W08 30     L08 OS Chat related
+ZCZC W08 5      L42 TXT/mypubkey.txt related.
+ZCZC W08 20     L43 TXT/myrank.tex related, including peer review.
+
